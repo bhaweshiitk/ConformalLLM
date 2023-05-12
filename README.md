@@ -1,4 +1,5 @@
 # ConformalLLM
+## Contributors: Charlie Lu (MIT), Bhawesh Kumar (Harvard), Gauri Gupta (MIT)
 Extending Conformal Prediction to LLMs
 
 In this notebook, we apply conformal prediction for generating robust uncertainty estimates for classification tasks in LLMs. 
