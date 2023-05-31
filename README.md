@@ -1,6 +1,5 @@
 # ConformalLLM
-## Contributors: Charlie Lu (MIT), Bhawesh Kumar (Harvard), Gauri Gupta (MIT)
-Extending Conformal Prediction to LLMs 
+## Extending Conformal Prediction to LLMs 
 
 ### We will update our code soon to include additional experiments.
 
