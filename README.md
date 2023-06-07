@@ -1,7 +1,7 @@
 # ConformalLLM
 ## Extending Conformal Prediction to LLMs 
 
-### We will update our code soon to include additional experiments.
+### We will update our code soon to include comments and additional experiments.
 
 In this notebook, we apply conformal prediction for generating robust uncertainty estimates for classification tasks in LLMs. 
 We use LLaMA model to generate the uncalibrated uncertainty on MMLU dataset questions and use naive conformal prediction procedure to
