@@ -9,6 +9,6 @@ conformal_llm_scores.py contains the python script for classification using 1-sh
 
 In conformal.ipynb, we have results for all conformal prediction experiments and gpt4 vs mmlu based prompt comparison. It requires the three files outputted by conformal_llm_scores.py to work.
 
-If you would like to run the experiments from scratch, apply for LLaMA [https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform](aceess here) and then use the hugging face version of LLaMA by converting original LLaMA weights to hugging face version [https://huggingface.co/docs/transformers/main/model_doc/llama](refer here for instructions) and then run the conformal_llm_scores.py script.
+If you would like to run the experiments from scratch, apply for LLaMA [access here](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) and then use the hugging face version of LLaMA by converting original LLaMA weights to hugging face version [refer here for instructions](https://huggingface.co/docs/transformers/main/model_doc/llama) and then run the conformal_llm_scores.py script.
 
 
