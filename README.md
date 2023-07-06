@@ -1,6 +1,6 @@
 # ConformalLLM
 ## Extending Conformal Prediction to LLMs 
-
+### Contributors: Charles Lu and Bhawesh Kumar 
 ## Code Organization
 conformal_llm_scores.py contains the python script for classification using 1-shot question prompts. It outputs three files
 1) The softmax scores corresponding to each subjects for each of the 10 prompts
